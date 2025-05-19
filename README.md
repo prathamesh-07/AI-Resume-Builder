@@ -113,4 +113,3 @@ For any inquiries or feedback, please reach out to the contributors:
 - Prathamesh Chiddarwar
 
 
-You can copy and paste this code into a file named `README.md` in your project directory.
